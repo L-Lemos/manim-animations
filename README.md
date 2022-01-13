@@ -1,2 +1,4 @@
 # manim-animations
-Animations made with manim python library
+
+
+Codes for videos made with the mathematical animation library manim. These videos were made as exercises in python programming, and also intend to serve in teaching.
