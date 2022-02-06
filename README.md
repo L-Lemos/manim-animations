@@ -1,4 +1,4 @@
-# manim-animations
+<img alt="Banner" width="100%" src="Banner manim.png">
 
 This repository contains some python codes for animations using the manim library. These videos were made as exercises in python programming, and are also intended as resources for teaching.
 
